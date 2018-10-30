@@ -1,0 +1,46 @@
+@media only screen and ( max-width: 990px ) {
+    .navbar-default .navbar-nav>li>a { font-size:12px; padding:29px 10px;}
+    .logo { width: 200px; margin-top: 6px;}
+    .caption h3 { font-size:3em;}
+    .main_title h2 { font-size:5em;}
+    .main_title h3 { font-size:50px;}
+    .main_title h2 {  margin-bottom:-90px;}
+    .brand h3 { font-size:30px;}
+    .brand p{ font-size:15px; line-height:21px; }
+    .brand h3 { margin-top:40px;}
+    .about { margin:30px 0;}
+    .services { padding:30px 0;}
+    .project { margin:30px 0;}
+    .main_title h3 { margin-bottom:0;}
+    .footer form { margin-top:30px; }
+    .navbar-default { float: none; margin-top: 10px;}
+    .navbar-default .navbar-toggle { border:0;}
+    .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover { background: none;}
+    .navbar-default .navbar-nav>li>a { text-align: center; padding:5px 0;}
+    .inner_main_header h3 { font-size:30px; }
+    .main_subtitle { font-size:25px;}
+    .about_one { font-size:13px; }
+    .about_team_box { margin-top:30px; }
+    .ser_box { text-align:center;}
+    .ser_box h4 { margin-top:40px;}
+    
+    
+}
+
+
+
+@media only screen and ( max-width: 414px ) {
+    .caption h3 {font-size: 1.3em;}
+    .main_title h2 { font-size:1.5em;}
+    .main_title h3 { font-size:30px;}
+    .about_text h3 { font-size:13px; }
+    .main_title { margin-bottom:30px;}
+    .about_text p { font-size:12px;}
+    .home_button a { padding:4px 25px; font-size:12px;}
+    .ben_box h3 { font-size:15px;}
+    .ben_box p p { font-size:12px;}
+    .home-testimonial h3 { font-size:25px; background:none; padding:0; }
+    .ser_box h4 { font-size:15px;}
+    .ser_box p { font-size:13px; line-height:22px; }
+    .careers_bottom { float:none !Important; margin:auto;}
+}
